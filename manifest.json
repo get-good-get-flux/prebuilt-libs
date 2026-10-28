@@ -1,8 +1,8 @@
 {
 	"game": "1.0.0",
-	"version": "1.14b",
+	"version": "1.14",
 	"restricted": false,
 	"restricted_pc": false,
 	"url": "https://github.com/get-good-get-flux/prebuilt-libs/raw/refs/heads/main/lib.so",
-	"sha256": "06e39c4a6f9faf1869b90fce7cdcf13bb1b4fd9d0600a0b0f3c2b4da93b9a84f"
+	"sha256": "4d526c46d7f0aa5da62797b0dd90bdc46f1f415c256afbc2dc0e121862d1f251"
 }
