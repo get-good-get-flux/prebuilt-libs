@@ -1,11 +1,11 @@
 {
 	"game": "1.1.0",
-	"version": "1.18f3",
+	"version": "1.19",
 	"required_pc": "1.6",
 	"required_phone": "1.6",
 	"restricted": true,
 	"restricted_pc": true,
 	"restricted_phone": false,
 	"url": "https://gitlab.com/xyesss1337/nept/-/raw/main/nept.so",
-	"sha256": "53a6ea99457469a38d1174693e885ea3b008490a73aa510b6f8feacc98a33fdd"
+	"sha256": "5fe755cadea717990ed5fe9b6cb3db073f9eac9ef34290da4b27019afde31882"
 }
